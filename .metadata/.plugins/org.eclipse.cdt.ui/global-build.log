@@ -1,0 +1,374 @@
+
+**** Build of configuration Debug for project input_output ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 --include_path="C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d"  "../main.c"
+
+>> Compilation failure
+subdir_rules.mk:7: recipe for target 'main.obj' failed
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 582: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 583: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 584: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 585: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 586: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 587: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 588: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 589: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 590: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 591: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 592: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 593: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 594: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 595: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 599: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 600: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 601: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 602: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 603: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 604: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 605: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 606: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 607: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 608: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 612: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 613: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 614: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 615: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 616: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 617: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 618: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 618: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 619: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 620: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 621: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 622: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 623: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 624: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 625: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 630: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 631: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 634: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 634: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 635: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 636: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 637: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 638: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 638: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 639: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 640: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 641: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 642: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 643: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 644: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 645: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/sysctl.h", line 645: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 141: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 141: error #20: identifier "uint8_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 142: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 143: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 143: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 143: error #20: identifier "uint8_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 144: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 144: error #20: identifier "uint8_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 145: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 146: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 146: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 146: error #20: identifier "uint8_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 147: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 147: error #20: identifier "uint8_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 148: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 148: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 149: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 149: error #20: identifier "uint8_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 150: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 150: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 151: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 151: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 152: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 152: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 153: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 153: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 154: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 154: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 155: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 156: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 157: error #20: identifier "int32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 157: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 157: error #20: identifier "uint8_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 158: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 158: error #20: identifier "uint8_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 158: error #20: identifier "uint8_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 159: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 160: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 160: error #20: identifier "uint8_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 161: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 161: error #20: identifier "uint8_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 162: error #20: identifier "uint32_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 162: error #20: identifier "uint8_t" is undefined
+"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/gpio.h", line 163: error #20: identifier "uint32_t" is undefined
+Error limit reached.
+100 errors detected in the compilation of "../main.c".
+Compilation terminated.
+gmake: *** [main.obj] Error 1
+'Building file: ../tm4c123gh6pm_startup_ccs.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 --include_path="C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="tm4c123gh6pm_startup_ccs.d"  "../tm4c123gh6pm_startup_ccs.c"
+'Finished building: ../tm4c123gh6pm_startup_ccs.c'
+' '
+'Building file: ../Blinky/main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 --include_path="C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="Blinky/main.d" --obj_directory="Blinky"  "../Blinky/main.c"
+'Finished building: ../Blinky/main.c'
+' '
+'Building file: ../Blinky/tm4c123gh6pm_startup_ccs.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 --include_path="C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="Blinky/tm4c123gh6pm_startup_ccs.d" --obj_directory="Blinky"  "../Blinky/tm4c123gh6pm_startup_ccs.c"
+'Finished building: ../Blinky/tm4c123gh6pm_startup_ccs.c'
+' '
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project input_output ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 --include_path="C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d"  "../main.c"
+
+>> Compilation failure
+subdir_rules.mk:7: recipe for target 'main.obj' failed
+"../main.c", line 24: error #20: identifier "SYSCTL_XTAL_16MZ" is undefined
+1 error detected in the compilation of "../main.c".
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project input_output ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 --include_path="C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d"  "../main.c"
+'Finished building: ../main.c'
+' '
+'Building target: input_output.out'
+'Invoking: ARM Linker'
+"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"input_output.map" --stack_size=512 --heap_size=0 -i"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/lib" -i"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/include" --reread_libs --warn_sections --diag_wrap=off --display_error_number --xml_link_info="input_output_linkInfo.xml" --rom_model -o "input_output.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../Blinky/Debug/main.obj" "../Blinky/Debug/tm4c123gh6pm_startup_ccs.obj" "./Blinky/main.obj" "./Blinky/tm4c123gh6pm_startup_ccs.obj" "../Blinky/tm4c123gh6pm.cmd"  -llibc.a -l"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/ccs/Debug/driverlib.lib" 
+<Linking>
+fatal error #16001: object files have incompatible byte orderings ("../Blinky/Debug/main.obj" = little endian, "./main.obj" = big endian)
+
+>> Compilation failure
+makefile:150: recipe for target 'input_output.out' failed
+gmake: *** [input_output.out] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project input_output ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d"  "../main.c"
+'Finished building: ../main.c'
+' '
+'Building file: ../tm4c123gh6pm_startup_ccs.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="tm4c123gh6pm_startup_ccs.d"  "../tm4c123gh6pm_startup_ccs.c"
+'Finished building: ../tm4c123gh6pm_startup_ccs.c'
+' '
+'Building file: ../Blinky/main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="Blinky/main.d" --obj_directory="Blinky"  "../Blinky/main.c"
+'Finished building: ../Blinky/main.c'
+' '
+'Building file: ../Blinky/tm4c123gh6pm_startup_ccs.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="Blinky/tm4c123gh6pm_startup_ccs.d" --obj_directory="Blinky"  "../Blinky/tm4c123gh6pm_startup_ccs.c"
+'Finished building: ../Blinky/tm4c123gh6pm_startup_ccs.c'
+' '
+'Building target: input_output.out'
+'Invoking: ARM Linker'
+"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"input_output.map" --stack_size=512 --heap_size=0 -i"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/lib" -i"C:/ti/ccsv6/tools/compiler/arm_15.12.3.LTS/include" --reread_libs --warn_sections --diag_wrap=off --display_error_number --xml_link_info="input_output_linkInfo.xml" --rom_model -o "input_output.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../Blinky/Debug/main.obj" "../Blinky/Debug/tm4c123gh6pm_startup_ccs.obj" "./Blinky/main.obj" "./Blinky/tm4c123gh6pm_startup_ccs.obj" "../Blinky/tm4c123gh6pm.cmd"  -llibc.a -l"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/ccs/Debug/driverlib.lib" 
+<Linking>
+error #10056: symbol "main" redefined: first defined in "./main.obj"; redefined in "../Blinky/Debug/main.obj"
+error #10056: symbol "ResetISR" redefined: first defined in "./tm4c123gh6pm_startup_ccs.obj"; redefined in "../Blinky/Debug/tm4c123gh6pm_startup_ccs.obj"
+error #10056: symbol "g_pfnVectors" redefined: first defined in "./tm4c123gh6pm_startup_ccs.obj"; redefined in "../Blinky/Debug/tm4c123gh6pm_startup_ccs.obj"
+error #10056: symbol "main" redefined: first defined in "./main.obj"; redefined in "./Blinky/main.obj"
+error #10056: symbol "ResetISR" redefined: first defined in "./tm4c123gh6pm_startup_ccs.obj"; redefined in "./Blinky/tm4c123gh6pm_startup_ccs.obj"
+
+error #10056: symbol "g_pfnVectors" redefined: first defined in "./tm4c123gh6pm_startup_ccs.obj"; redefined in "./Blinky/tm4c123gh6pm_startup_ccs.obj"
+>> Compilation failure
+makefile:150: recipe for target 'input_output.out' failed
+error #10010: errors encountered during linking; "input_output.out" not built
+gmake: *** [input_output.out] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Debug for project Blinky ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k clean 
+DEL /F  "Blinky.out"  "Blinky.hex" 
+DEL /F "main.d" "tm4c123gh6pm_startup_ccs.d" 
+DEL /F "main.obj" "tm4c123gh6pm_startup_ccs.obj" 
+Could Not Find D:\Motor Slug 2\Peripherals\IO\Blinky\Debug\Blinky.out
+Could Not Find D:\Motor Slug 2\Peripherals\IO\Blinky\Debug\main.obj
+'Finished clean'
+' '
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Blinky ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d"  "../main.c"
+'Finished building: ../main.c'
+' '
+'Building file: ../tm4c123gh6pm_startup_ccs.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="tm4c123gh6pm_startup_ccs.d"  "../tm4c123gh6pm_startup_ccs.c"
+'Finished building: ../tm4c123gh6pm_startup_ccs.c'
+' '
+'Building target: Blinky.out'
+'Invoking: ARM Linker'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"Blinky.map" --stack_size=512 --heap_size=0 -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/lib" -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/include" --reread_libs --warn_sections --diag_wrap=off --display_error_number --xml_link_info="Blinky_linkInfo.xml" --rom_model -o "Blinky.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a -l"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/ccs/Debug/driverlib.lib" 
+<Linking>
+'Finished building target: Blinky.out'
+' '
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Blinky ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+gmake: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project IO_noTimer ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d"  "../main.c"
+'Finished building: ../main.c'
+' '
+'Building target: IO_noTimer.out'
+'Invoking: ARM Linker'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"IO_noTimer.map" --stack_size=512 --heap_size=0 -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/lib" -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/include" --reread_libs --warn_sections --diag_wrap=off --display_error_number --xml_link_info="IO_noTimer_linkInfo.xml" --rom_model -o "IO_noTimer.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a -l"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/ccs/Debug/driverlib.lib" 
+<Linking>
+'Finished building target: IO_noTimer.out'
+' '
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project IO_noTimer ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d"  "../main.c"
+
+>> Compilation failure
+subdir_rules.mk:7: recipe for target 'main.obj' failed
+"../main.c", line 48: error #20: identifier "USER_LED" is undefined
+1 error detected in the compilation of "../main.c".
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project IO_noTimer ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d"  "../main.c"
+'Finished building: ../main.c'
+' '
+'Building target: IO_noTimer.out'
+'Invoking: ARM Linker'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"IO_noTimer.map" --stack_size=512 --heap_size=0 -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/lib" -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/include" --reread_libs --warn_sections --diag_wrap=off --display_error_number --xml_link_info="IO_noTimer_linkInfo.xml" --rom_model -o "IO_noTimer.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a -l"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/ccs/Debug/driverlib.lib" 
+<Linking>
+'Finished building target: IO_noTimer.out'
+' '
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project IO_noTimer ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+gmake: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project IO_noTimer ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d"  "../main.c"
+
+>> Compilation failure
+subdir_rules.mk:7: recipe for target 'main.obj' failed
+"../main.c", line 66: error #66: expected a ";"
+1 error detected in the compilation of "../main.c".
+gmake: *** [main.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project IO_noTimer ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d"  "../main.c"
+'Finished building: ../main.c'
+' '
+'Building target: IO_noTimer.out'
+'Invoking: ARM Linker'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"IO_noTimer.map" --stack_size=512 --heap_size=0 -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/lib" -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/include" --reread_libs --warn_sections --diag_wrap=off --display_error_number --xml_link_info="IO_noTimer_linkInfo.xml" --rom_model -o "IO_noTimer.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a -l"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/ccs/Debug/driverlib.lib" 
+<Linking>
+'Finished building target: IO_noTimer.out'
+' '
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project IO_noTimer ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+gmake: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project IO_noTimer ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../main.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/include" --include_path="C:/ti/TivaWare_C_Series-2.1.3.156" -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d"  "../main.c"
+'Finished building: ../main.c'
+' '
+'Building target: IO_noTimer.out'
+'Invoking: ARM Linker'
+"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me -g --gcc --define=ccs="ccs" --define=PART_TM4C123GH6PM --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"IO_noTimer.map" --stack_size=512 --heap_size=0 -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/lib" -i"C:/ti/ccsv6/tools/compiler/ti-cgt-arm_15.12.1.LTS/include" --reread_libs --warn_sections --diag_wrap=off --display_error_number --xml_link_info="IO_noTimer_linkInfo.xml" --rom_model -o "IO_noTimer.out" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd"  -llibc.a -l"C:/ti/TivaWare_C_Series-2.1.3.156/driverlib/ccs/Debug/driverlib.lib" 
+<Linking>
+'Finished building target: IO_noTimer.out'
+' '
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project IO_noTimer ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k all 
+gmake: Nothing to be done for 'all'.
+
+**** Build Finished ****
